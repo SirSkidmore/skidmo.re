@@ -1,11 +1,4 @@
-name: kyleisom.net
+name: taylorskidmore.com
 description: Yet Another Programming Blog
-url: http://kyleisom.net
-markdown: redcarpet2
-lsi: true
-source: source
-permalink: /blog/:year/:month/:day/:title
+permalink: /blog/:title
 pygments: true
-exclude: ["mkfile"]
-redcarpet:
-  extensions: ["fenced_code_blocks"]
