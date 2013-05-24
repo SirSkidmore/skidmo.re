@@ -2,3 +2,4 @@ name: taylorskidmore.com
 description: Yet Another Programming Blog
 permalink: /blog/:title
 pygments: true
+paginate: 5
